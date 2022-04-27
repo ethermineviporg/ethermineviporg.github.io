@@ -1,4 +1,4 @@
-## ethermineviporg GIA-CN2精品线路 加密节点
+## ethermineviporg GIA-CN2精品线路 加密节点 1%费率
 
 
 ### ETH矿池列表
