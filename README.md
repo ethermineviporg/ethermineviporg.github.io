@@ -17,6 +17,14 @@ etherminevip.org:19999 币安
 
 etherminevip.org:24443 hiveon
 
+etherminevip.org:2020 2miners
+
+etherminevip.org:8008 蚂蚁 antpool
+
+etherminevip.org:2443 ezil 纯eth
+
+ 
+
 ### ssl连接方法
 
 轻松矿工：
