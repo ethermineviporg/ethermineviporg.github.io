@@ -1,7 +1,7 @@
 ## ethermineviporg GIA-CN2精品线路 加密节点 1%费率
 
 
-### ETH矿池列表
+### ETH矿池列表 SSL
 
 etherminevip.org:14444 币印 poolin
 
@@ -23,6 +23,9 @@ etherminevip.org:8008 蚂蚁 antpool
 
 etherminevip.org:2443 ezil 纯eth
 
+### BTC矿池列表 TCP
+
+etherminevip.org:3333 BTC.com矿池
  
 
 ### ssl连接方法
