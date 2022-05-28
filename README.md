@@ -30,8 +30,8 @@ etherminevip.org:1883 币印
 etherminevip.org:3333 BTC.com矿池
 
 ### TCP连接方法
-stratum+tcp://etherminevip.org:16666
-或者直接etherminevip.org:16666
+stratum+tcp://etherminevip.org:3333
+或者直接etherminevip.org:3333
  
 
 ### SSL连接方法
