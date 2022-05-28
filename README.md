@@ -25,6 +25,8 @@ etherminevip.org:2443 ezil 纯eth
 
 ### BTC矿池列表 TCP
 
+etherminevip.org:1883 币印
+
 etherminevip.org:3333 BTC.com矿池
  
 
