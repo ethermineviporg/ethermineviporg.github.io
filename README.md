@@ -23,6 +23,10 @@ etherminevip.org:8008 蚂蚁 antpool
 
 etherminevip.org:2443 ezil 纯eth
 
+### ETC矿池列表 SSL
+
+etherminevip.org:3444 币印 poolin
+
 ### BTC矿池列表 TCP
 
 etherminevip.org:1883 币印
