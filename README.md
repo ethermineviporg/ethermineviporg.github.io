@@ -28,9 +28,13 @@ etherminevip.org:2443 ezil 纯eth
 etherminevip.org:1883 币印
 
 etherminevip.org:3333 BTC.com矿池
+
+### TCP连接方法
+stratum+tcp://etherminevip.org:16666
+或者直接etherminevip.org:16666
  
 
-### ssl连接方法
+### SSL连接方法
 
 轻松矿工：
 矿池填写 stratum+ssl://etherminevip.org:16666
