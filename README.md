@@ -1,5 +1,6 @@
 ## ethermineviporg GIA-CN2精品线路 加密节点 1%费率
 
+自搭建抽水中转软件网址：https://github.com/MieBaMinerProxy/StableTaxMinerProxy
 
 ### ETH矿池列表 SSL
 
