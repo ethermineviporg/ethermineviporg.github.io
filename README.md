@@ -38,6 +38,8 @@ etherminevip.org:3333 BTC.com矿池
 
 etherminevip.org:3883 币印
 
+etherminevip.org:8888 鱼池
+
 
 
 ### TCP连接方法
