@@ -30,6 +30,8 @@ etherminevip.org:3444 币印 poolin
 
 ### BTC矿池列表 TCP
 
+etherminevip.org:3335 蚂蚁
+
 etherminevip.org:1883 币印
 
 etherminevip.org:3333 BTC.com矿池
