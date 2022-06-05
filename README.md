@@ -40,6 +40,8 @@ etherminevip.org:3883 币印
 
 etherminevip.org:8888 鱼池
 
+etherminevip.org:8866 蚂蚁
+
 
 
 ### TCP连接方法
