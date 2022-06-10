@@ -34,6 +34,8 @@ etherminevip.org:3335 蚂蚁
 
 etherminevip.org:1883 币印
 
+etherminevip.org:5555 鱼池
+
 etherminevip.org:3333 BTC.com矿池
 
 ### LTC矿池列表 TCP
